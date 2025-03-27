@@ -23,3 +23,4 @@ main.ts
 脚本会根据传入的key进行随机轮询
 # token获取方式
 F12进入devtool中，找到网络，进行一次对话，在网络日志conversation中即可看到token信息
+ 
